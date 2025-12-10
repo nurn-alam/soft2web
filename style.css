@@ -78,12 +78,11 @@ nav a:hover {
 }
 
 .hero h1 {
-  font-family: georgia, "Times New Roman", Times, serif;
-  font-size: 50px;
-  margin-bottom: 10px;
   color: #fdbe20;
-  text-shadow: #15150d 2px 2px 1px;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.45);
+  -webkit-text-stroke: 1px rgba(0,0,0,0.35);
 }
+
 
 .content-section {
   display: flex;
