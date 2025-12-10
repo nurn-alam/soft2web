@@ -78,8 +78,8 @@ nav a:hover {
 }
 
 .hero h1 {
-  color: #fdbe20;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.45);
+  color: #040405;
+  text-shadow: 2px 2px 4px rgb(85, 72, 72);
   -webkit-text-stroke: 1px rgba(0,0,0,0.35);
 }
 
